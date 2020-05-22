@@ -79,7 +79,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onProgressChanged(SeekBar seekBar, int i, boolean b) {
 
-                Log.i("Scrub SeekBar moveed", Integer.toString(i));
+                Log.i("Scrub SeekBar moved", Integer.toString(i));
+
 
 
             }
